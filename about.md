@@ -22,8 +22,8 @@ learning new technologies, growing professionally and sharing knowledge. </p>
 <h2>Community Work</h2>
 
 <ul>
-	<li><a href="https://www.meetup.com/es-ES/GGD-Cloud-Bogota/">Head of GDG Cloud Bogotá </a></li>
-	<li><a href="https://www.meetup.com/es-ES/WTM-Bogota/">CoFounder Women Techmakers Bogotá </a></li>
+	<li> Head of <a href="https://www.meetup.com/es-ES/GGD-Cloud-Bogota/"> GDG Cloud Bogotá </a></li>
+	<li> Co-Founder <a href="https://www.meetup.com/es-ES/WTM-Bogota/"> Women Techmakers Bogotá </a></li>
 </ul>
 
 

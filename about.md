@@ -52,7 +52,8 @@ learning new technologies, growing professionally and sharing knowledge. </p>
 	<li>Markdown</li>
 	<li>TeamCity</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>TDD</li>
+	<li>Continuous Integration</li>
 </ul>
 
 

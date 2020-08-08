@@ -18,7 +18,16 @@ experience in configuration management, Linux server administration and
 implementation of cloud solutions. Interested in acquiring new challenges, in 
 learning new technologies, growing professionally and sharing knowledge. </p>
 
-<h2>Skills</h2>
+
+<h2>Community Work</h2>
+
+<ul>
+	<li><a href="https://www.meetup.com/es-ES/GGD-Cloud-Bogota/">Head of GDG Cloud Bogotá </a></li>
+	<li><a href="https://www.meetup.com/es-ES/WTM-Bogota/">CoFounder Women Techmakers Bogotá </a></li>
+</ul>
+
+
+<h2>Tech Skills</h2>
 
 <ul class="skill-list">
 	<li>Python</li>
@@ -46,10 +55,4 @@ learning new technologies, growing professionally and sharing knowledge. </p>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>

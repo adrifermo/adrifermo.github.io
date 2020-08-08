@@ -4,19 +4,13 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Cloud Engineer with experience on GCP. Recognized as Google Developer Expert 
-in the category in Cloud for her experience added to her contributions to the 
-developer community in Latin America. With academic studies in computer science
-and software engineering.</p>
+<p>Cloud Engineer with experience on GCP. Recognized as Google Developer Expert in the category in Cloud for her experience added to her contributions to the 
+developer community in Latin America. With academic studies in computer science and software engineering.</p>
 
-<p>Systems engineer, specialist in Software Engineering, passionate about new 
-trends in technology, enthusiastic, responsible, committed, self-taught and with
+<p>Systems engineer, specialist in Software Engineering, passionate about new trends in technology, enthusiastic, responsible, committed, self-taught and with
 the ability to work in a group. </p>
 
-<p>Cloud Engineer & Software developer, follower of agile methodologies, with 
-experience in configuration management, Linux server administration and 
-implementation of cloud solutions. Interested in acquiring new challenges, in 
-learning new technologies, growing professionally and sharing knowledge. </p>
+<p>Cloud Engineer & Software developer, follower of agile methodologies, with experience in configuration management, Linux server administration and implementation of cloud solutions. Interested in acquiring new challenges, in learning new technologies, growing professionally and sharing knowledge. </p>
 
 
 <h2>Community Work</h2>

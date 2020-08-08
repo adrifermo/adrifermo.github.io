@@ -54,6 +54,8 @@ learning new technologies, growing professionally and sharing knowledge. </p>
 	<li>Scrum and Kanban</li>
 	<li>TDD</li>
 	<li>Continuous Integration</li>
+	<li>Continuous Delivery</li>
+	<li>DevOps</li>
 </ul>
 
 
